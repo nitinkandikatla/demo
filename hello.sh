@@ -1,5 +1,5 @@
 #! /bin/bash
 
-echo "Welcome"
+echo "git is small"
 echo "nitin Kandikatla"
 echo "Anything"
